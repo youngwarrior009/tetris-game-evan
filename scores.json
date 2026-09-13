@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Evan",
+        "score": 5000,
+        "lines": 50
+    },
+    {
+        "name": "Player",
+        "score": 2500,
+        "lines": 25
+    }
+]
